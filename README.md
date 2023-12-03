@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou a Susilane Assis
 - 👀 Interessada em trabalhar com Front-end
-- 🎓 Desenvolvedora Fullstack em formação na Kenzie Academy Brasil
+- 🎓 Desenvolvedora Fullstack 
 - 📫 Contate-me no email: susi.planos@gmail.com
 - 😃 Pronouns: ela/dela
 
